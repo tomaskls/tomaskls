@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a passionate web developer with experience in JavaScript, TypeScript, React, Next.js, Node.js, and Tailwind CSS. I recently completed a program at the Baltic Institute of Technology. I enjoy creating clean, responsive web applications with a focus on user experience and functionality. Check out my repositories to see some of my work!
- 📫 How to reach me: tomaskls@hotmail.com
+ - 📫 How to reach me: tomaskls@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
