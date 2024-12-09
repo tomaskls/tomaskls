@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a passionate web developer with experience in JavaScript, TypeScript, React, Next.js, Node.js, and Tailwind CSS. I recently completed a program at the Baltic Institute of Technology. I enjoy creating clean, responsive web applications with a focus on user experience and functionality. Check out my repositories to see some of my work!
 <!--
 **tomaskls/tomaskls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
