@@ -8,7 +8,8 @@ I'm a passionate web developer with experience in JavaScript, TypeScript, React,
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomaskls&show_icons=true&locale=en&layout=compact" alt="tomaskls" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusu_github_username&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusu_github_username&layout=compact" /></p>
+
 
 <!--
 **tomaskls/tomaskls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
